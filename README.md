@@ -13,8 +13,10 @@
 
 
 <a href="https://count.getloli.com" target="_blank">
-	<img alt="Moe Counter" src="https://count.getloli.com/@astrbot_plugin_airi_gallery?theme=miku&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
+	<img alt="Moe Counter" src="https://count.moeyy.cn/@lidure?name=lidure&theme=miku&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto">
 </a>
+
+
 
 ---
 
