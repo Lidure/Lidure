@@ -5,6 +5,12 @@
 
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lidure/Lidure/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lidure/Lidure/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Lidure/Lidure/output/github-snake.svg" />
+</picture>
+
 
 <a href="https://count.getloli.com" target="_blank">
 	<img alt="Moe Counter" src="https://count.getloli.com/@astrbot_plugin_airi_gallery?theme=miku&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
