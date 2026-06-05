@@ -17,11 +17,9 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-0B0D0E?style=for-the-badge&logo=astro&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
@@ -29,15 +27,6 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
-
-<!-- 综合统计卡片 -->
-<img src="https://github-readme-stats.vercel.app/api?username=Lidure&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" width="48%" alt="GitHub Stats" />
-
-<!-- 常用语言卡片 -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lidure&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" alt="Top Languages" />
-
-</div>
 
 <div align="center">
 
