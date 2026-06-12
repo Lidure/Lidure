@@ -66,7 +66,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lidure)
 [![QQ](https://img.shields.io/badge/QQ-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white)](https://qm.qq.com/cgi-bin/qm/qr?k=uxOxLosgLrYirBIgtv33nr6vrEy1gO-3)
-[![个人博客](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](<[你的博客链接](https://lidure.github.io/)>)
+[![个人博客](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](<(https://lidure.github.io/)>)
 
 </div>
 
